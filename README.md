@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @19ManishaBhatia
+<b>Hii I'm MANISHA BHATIA</b>
+<br>I'm a coder @Github working on Java
+
+
+<!-- - 👋 Hi, I’m @19ManishaBhatia
 - 👀 I’m interested in helping out you with my java codes
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate with java learners as I am 
